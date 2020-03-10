@@ -107,3 +107,5 @@ data-dev.sqlite
 data-test.sqlite
 /.env/
 .vscode/settings.json
+data.sqlite
+requirements1.txt
